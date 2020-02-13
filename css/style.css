@@ -1,0 +1,44 @@
+.body{
+	background-color:
+	}
+	body {
+    background-color: lightblue;
+	
+    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+}
+.pagnav ul{
+	border-style: solid;
+    border-width: 1px;
+	color:#008000;
+}
+.pagnav ul li 
+{
+	color:red;
+	margin-top:2%;
+	
+}
+.pulp1{
+	border-bottom-style:solid;
+}
+.pro{
+border-style: solid;
+    border-width: 1px;
+}	
+.footer1 ul li{
+margin-top:10px;
+list-style-type:none;
+text-decoration:none;
+color:red;
+}
+.site ul li
+{
+font-size:125%;
+list-style-type:none;
+text-decoration:none;	
+}
+
+	
+
+
+
+
